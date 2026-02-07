@@ -18,7 +18,4 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Flask/Streamlit
 3. Run app: `python app.py` → Open `http://localhost:5000`  
 
 ## Dataset
-`heart-disease.csv` – medical features like Age, Sex, Blood Pressure, Cholesterol, etc.  
-
-## GitHub
-[View Project](https://github.com/AparnaBhardwaj/Heart-Disease-Prediction)
+`heart-disease.csv` – medical features like Age, Sex, Blood Pressure, Cholesterol, etc. 
